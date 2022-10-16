@@ -13,6 +13,7 @@ dataf2 = read_csv('ejemplo2.csv')
 index = []
 i = 0
 result = []
+
 for item in dataf1:
     index.append(item[-1])
     for sublist in dataf2:
@@ -21,4 +22,5 @@ for item in dataf1:
             match[-1] = index[i]
             result.append(match)
             i += 1
+
 print(result)

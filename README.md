@@ -23,5 +23,11 @@ Pandas es una herramienta de manipulación de datos de alto nivel desarrollada p
 ## Uso de diccionarios
 
 
+## Codigo de conducta
+Puedes ver el codigo de conducto en este [Link](CODE_OF_CONDUCT.md)
+
+## Contribuye
+Puedes ver las normas de contribución en este [link](CONTRIBUTING.md)
+
 ## Copyright
-2022 Marco Hernandez
+2022-2024 Marco Hernandez
